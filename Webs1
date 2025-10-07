@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>This is my task.</title>
+</head>
+<body>
+<h1 align="center">Trường THPT Chuyên Trần Phú.</h1>
+<h3 align="center">TRE VIỆT NAM</h3>
+<p align="center"> 
+Tre xanh xanh tự bao giờ<br>
+Chuyện ngày xưa đã có bờ tre xanh<br>
+Thân gầy guộc lá mong manh<br>
+Mà sao nên luỹ nên thành tre ơi?<p>
+<h2>A link to the website that I'm doing this task in</h2>
+<a href="http:/www.w3schools.com">Here it is</a>
+<img src="w3schools.jpg" alt="W3schools.com" width="120" height="100">
+
+<button>Delete</button>
+<h2>List of some of my school's classes:</h2>
+<h3>Hệ thống lớp chuyên:</h3>
+<ul>
+<li> Chuyên Toán</li>
+<li> Chuyên Lí</li>
+<li> Chuyên Hoá</li>
+<li> Chuyên Sinh</li>
+<li> Chuyên Tin</li>
+</ul>
+<h3>Hệ thống lớp không chuyên:</h3>
+<ol>
+<li> Tự nhiên</li>
+<li> Xã Hội</li>
+</ol>
+
+</body>
+</html>
